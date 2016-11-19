@@ -8,6 +8,9 @@ Group members:
 
 Special thanks to Federica BIanco and Justin Salamon, who challenged us to make this analysis happen.
 
+- Our presentation: Who Drowns First - Hack Day.pptx
+- Our IPython Notebook: Drown Map.ipynb
+
 ### Dataset:
 - Sea Level historical data: https://tidesandcurrents.noaa.gov/sltrends/sltrends_station.shtml?stnid=8518750
 - Elevation map: https://data.cityofnewyork.us/Transportation/Elevation-points/szwg-xci6
