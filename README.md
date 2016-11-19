@@ -21,13 +21,13 @@ Once with the elevation map, we expected to increasesea level accordingly to exp
 The results can be observed as the following pictures (just few samples, for more information look at repo):
 
 - Simmulating a sea level increasing by 6.5 ft:
-![6.5](6.5.PNG)
+![6.5](6.5.png)
 
 - Simmulating a sea level increasing by 20 ft:
-![20](20.PNG)
+![20](20.png)
 
 - Simmulating a sea level increasing by 40 ft:
-![40](40.PNG)
+![40](40.png)
 
 We can see by those plots some not likely but interesting results. Maybe the closest from reality can be found on 6.5 ft plot, level that can be achieved during severe storms, and we noticed something really warning, there are some small islands that can be covered by water.
 
